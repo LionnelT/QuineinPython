@@ -1,1 +1,1 @@
-# QuineinPython
+# Quine in Python
